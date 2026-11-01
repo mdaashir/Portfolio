@@ -9,7 +9,8 @@
         "build": "parcel build",
         "build-gh": "parcel build --public-url=/Portfolio/",
         "predeploy": "npm run build-gh",
-        "deploy": "gh-pages -d dist"
+        "deploy": "gh-pages -d dist",
+        "lint": "eslint src --ext .js,.jsx"
     },
     "repository": {
         "type": "git",
