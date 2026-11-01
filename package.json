@@ -7,7 +7,7 @@
     "scripts": {
         "start": "parcel",
         "build": "parcel build",
-        "build-gh": "parcel build --public-url 'https://mdaashir.github.io/Portfolio'",
+        "build-gh": "parcel build --public-url=/Portfolio/",
         "predeploy": "npm run build-gh",
         "deploy": "gh-pages -d dist"
     },
