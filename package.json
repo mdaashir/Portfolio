@@ -3,7 +3,7 @@
     "version": "1.1.0",
     "description": "Portfolio for Mohamed Aashir S",
     "source": "src/index.html",
-    "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+    "homepage": "https://mdaashir.github.io/Portfolio/",
     "scripts": {
         "start": "parcel",
         "build": "parcel build",
@@ -14,14 +14,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git",
-        "secondaryType": "git",
-        "secondaryUrl": "git+https://github.com/mdaashir/Portfolio.git"
+        "url": "git+https://github.com/mdaashir/Portfolio.git"
     },
-    "author": "Microsoft",
+    "author": "Mohamed Aashir S",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+        "url": "https://github.com/mdaashir/Portfolio/issues"
     },
     "dependencies": {
         "prop-types": "^15.8.1",
